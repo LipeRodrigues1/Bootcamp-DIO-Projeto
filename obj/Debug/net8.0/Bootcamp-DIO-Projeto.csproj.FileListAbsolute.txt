@@ -1,0 +1,14 @@
+C:\Users\FAMILIA\Desktop\Fellipe\Estudos\Bootcamp-DIO-Projeto\bin\Debug\net8.0\Bootcamp-DIO-Projeto.exe
+C:\Users\FAMILIA\Desktop\Fellipe\Estudos\Bootcamp-DIO-Projeto\bin\Debug\net8.0\Bootcamp-DIO-Projeto.deps.json
+C:\Users\FAMILIA\Desktop\Fellipe\Estudos\Bootcamp-DIO-Projeto\bin\Debug\net8.0\Bootcamp-DIO-Projeto.runtimeconfig.json
+C:\Users\FAMILIA\Desktop\Fellipe\Estudos\Bootcamp-DIO-Projeto\bin\Debug\net8.0\Bootcamp-DIO-Projeto.dll
+C:\Users\FAMILIA\Desktop\Fellipe\Estudos\Bootcamp-DIO-Projeto\bin\Debug\net8.0\Bootcamp-DIO-Projeto.pdb
+C:\Users\FAMILIA\Desktop\Fellipe\Estudos\Bootcamp-DIO-Projeto\obj\Debug\net8.0\Bootcamp-DIO-Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FAMILIA\Desktop\Fellipe\Estudos\Bootcamp-DIO-Projeto\obj\Debug\net8.0\Bootcamp-DIO-Projeto.AssemblyInfoInputs.cache
+C:\Users\FAMILIA\Desktop\Fellipe\Estudos\Bootcamp-DIO-Projeto\obj\Debug\net8.0\Bootcamp-DIO-Projeto.AssemblyInfo.cs
+C:\Users\FAMILIA\Desktop\Fellipe\Estudos\Bootcamp-DIO-Projeto\obj\Debug\net8.0\Bootcamp-DIO-Projeto.csproj.CoreCompileInputs.cache
+C:\Users\FAMILIA\Desktop\Fellipe\Estudos\Bootcamp-DIO-Projeto\obj\Debug\net8.0\Bootcamp-DIO-Projeto.dll
+C:\Users\FAMILIA\Desktop\Fellipe\Estudos\Bootcamp-DIO-Projeto\obj\Debug\net8.0\refint\Bootcamp-DIO-Projeto.dll
+C:\Users\FAMILIA\Desktop\Fellipe\Estudos\Bootcamp-DIO-Projeto\obj\Debug\net8.0\Bootcamp-DIO-Projeto.pdb
+C:\Users\FAMILIA\Desktop\Fellipe\Estudos\Bootcamp-DIO-Projeto\obj\Debug\net8.0\Bootcamp-DIO-Projeto.genruntimeconfig.cache
+C:\Users\FAMILIA\Desktop\Fellipe\Estudos\Bootcamp-DIO-Projeto\obj\Debug\net8.0\ref\Bootcamp-DIO-Projeto.dll

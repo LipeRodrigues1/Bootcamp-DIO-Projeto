@@ -1,0 +1,8 @@
+O projeto precisa 
+1- Preço inicial
+2- Preço por hora
+=== Calculo de preço * hora ===
+3- Menu para cadastrar placa/remover/ver a lista de placas -> lista
+4- Ler as placas e incluir na lista -> lista.Add
+
+
